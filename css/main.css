@@ -1,0 +1,74 @@
+body {
+    font-family: 'Mina', 'Times New Roman', Times, serif
+}
+
+#marco {
+    border-radius: 8px;
+    background-color: rgba(207, 168, 201, 0.747);
+    width: 85%;
+    height: 85%;
+    margin: 0 auto;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    text-align: center;
+    position: relative;
+    padding: 12px;
+  }
+  
+  .div-img {
+    width: 100%;
+    background-color: rgb(226, 213, 226);
+    padding: 8px;
+    border-radius: 5px;
+  }
+  
+  .main-img {
+    width: 100%;
+  }
+  
+  .text-main-img {
+    text-align: center;
+    font-family: Helvetica;
+  }
+  
+  .main-text {
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 2em;
+  }
+  
+  .list-poems {
+    text-align: justify;
+  }
+  
+  .author-quote {
+    text-align: justify;
+  }
+  
+  .author {
+    font-style: italic;
+    text-align: left;
+  }
+  
+  .final-text {
+    width: 58%;
+    margin: 0 auto;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    text-align: justify;
+  }
+  
+  a {
+    text-decoration: none;
+    color: cadetblue;
+  }
+
+  footer {
+    margin-top: 2em;
+    margin-bottom: 0.8em;
+    text-align: center;
+  }
+  
+  .line {
+    width: 85%;
+  }
