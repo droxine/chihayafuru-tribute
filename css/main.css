@@ -39,6 +39,11 @@ body {
   
   .list-poems {
     text-align: justify;
+    margin-bottom: 2em;
+  }
+
+  .list-poems li {
+    margin: 1em;
   }
   
   .author-quote {
